@@ -1,0 +1,48 @@
+/* Navbar Glam Styling */
+.custom-navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 18px 60px;
+  background-color: #fad1f1;
+  border-bottom: 2px dashed #e0c1b3;
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+ 
+
+}
+
+.navbar-logo .brand-logo {
+  height: 60px;
+  object-fit: contain;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  gap: 35px;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li a {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: 16px;
+  color: #5e3023;
+  font-family: 'Poppins', sans-serif;
+  transition: all 0.3s ease;
+}
+
+.nav-links li a:hover {
+  color: #d17d6f;
+  transform: scale(1.05);
+}
+
+.nav-icon {
+  margin-right: 8px;
+  color: #c1694f;
+}

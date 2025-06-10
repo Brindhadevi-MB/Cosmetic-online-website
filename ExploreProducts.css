@@ -1,0 +1,56 @@
+.explore-page {
+  text-align: center;
+  padding: 40px 20px;
+  font-family: 'Poppins', sans-serif;
+  background: linear-gradient(to bottom, #fff0f5, #ffeef8);
+}
+
+.image-slider {
+  width: 100%;
+  overflow: hidden;
+  white-space: nowrap;
+  margin-bottom: 40px;
+  border-radius: 14px;
+  box-shadow: 0 0 15px rgba(0,0,0,0.1);
+}
+
+.image-slider img {
+  height: 200px;
+  width: auto;
+  margin-right: 10px;
+  border-radius: 12px;
+  display: inline-block;
+}
+
+.explore-content h2 {
+  font-size: 2rem;
+  color: #d63384;
+}
+
+.explore-content p {
+  font-size: 1.2rem;
+  margin-bottom: 20px;
+  color: #555;
+}
+
+.explore-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 20px;
+}
+
+.explore-buttons button {
+  padding: 14px 28px;
+  font-size: 16px;
+  background-color: #d63384;
+  color: white;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.explore-buttons button:hover {
+  background-color: #b91c6d;
+}
