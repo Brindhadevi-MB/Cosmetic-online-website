@@ -47,7 +47,7 @@ The Checkout page allows customers to review their selected products, enter deli
 
 The Order Confirmation page displays a success message after customers place their orders. It provides order details and confirmation information, assuring customers that their purchase has been successfully completed.
 
-![Order Confirmation Page](https://github.com/user-attachments/assets/5383ff0c-5bb8-4521-9237-89cb1d32882c)
+![Order Details](https://github.com/user-attachments/assets/52ca5e67-fe47-4e93-90d5-586d423b2d5f)
 
 # Getting Started with Create React App
 
