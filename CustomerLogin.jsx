@@ -9,7 +9,7 @@ const CustomerLogin = () => {
 
   const handleLogin = () => {
     if (email === 'user@example.com' && password === 'password123') {
-      // ✅ Successful login
+     
       navigate('/exploreproducts');
     } else {
       alert('Invalid login credentials!');
