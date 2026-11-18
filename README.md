@@ -1,3 +1,9 @@
+## 1. Home Page
+
+The home page provides an attractive introduction to the Secret Hues cosmetic shopping website. It showcases featured products, product categories, and navigation options for a smooth shopping experience.
+
+![Home Page](https://github.com/user-attachments/assets/75e86eb6-54cb-4e31-8ab7-31daf213756d)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
